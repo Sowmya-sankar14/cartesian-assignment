@@ -1,0 +1,1 @@
+cut -d, -f3 filename | sort | uniq
